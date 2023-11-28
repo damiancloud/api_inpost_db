@@ -22,7 +22,6 @@ class Inpost
     ) {
     }
 
-
     /**
      * @param  string $resource
      * @param  string $queryParam
